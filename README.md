@@ -1,4 +1,22 @@
-# 🇻🇳 Cộng đồng LLMs Việt Nam - Vietnamese Language Models Community
+
+<h1 align="center">
+  <span> 🇻🇳 Cộng đồng LLMs Việt Nam - Vietnamese Language Models Community</span>
+  <img width="auto" height="50px" src="https://github.com/LAION-AI/Open-Assistant/blob/main/assets/logo_crop.png"/>
+</h1>
+
+<div align="center">
+   
+</div>
+
+# Table of Contents
+
+- [Giới thiệu về Open Assistant](#giới-thiệu-về-open-assistant)
+- [Các Liên kết hữu ích](#các-liên-kết-hữu-ích)
+- [Cách Thử Nghiệm Open Assistant](#cách-thử-nghiệm-open-assistant)
+- [Tầm nhìn](#tầm-nhìn)
+- [Kế Hoạch](#kế-hoạch)
+- [Làm thế nào bạn có thể giúp đỡ](#làm-thế-nào-bạn-có-thể-giúp-đỡ)
+
 
 ## Mục tiêu dự án (Project Goal):
 - Xây dựng Bộ dữ liệu Hướng dẫn tiếng Việt chất lượng cao
