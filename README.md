@@ -11,7 +11,7 @@
 
 # Nội Dung (Table of Contents)
 
-- [Giới thiệu về Vietnamese_LLMs](#Giới thiệu về Vietnamese_LLMs)
+- [Giới thiệu về Vietnamese_LLMs](#Giới-thiệu-dự-án-(Project Introduction))
 - [Mục tiêu dự án](#các-liên-kết-hữu-ích)
 - [Cách tiến hành dự án](#cách-thử-nghiệm-open-assistant)
 - [Tầm nhìn](#tầm-nhìn)
@@ -94,7 +94,7 @@ We can then take the resulting model and continue with completion sampling step
 
 we collaborate we can together gift our knowledge and technology to the world for the benefit of humanity.
 1. how to Build Project Together
-Check out our  [contributing guide] (CONTRIBUTING.md) to get started. 
+Check out our  [contributing guide](contribute.md) to get started. 
 
 2. We still Need more Computing Resources
   + Please help us sponser Traning Compute 
