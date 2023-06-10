@@ -20,7 +20,7 @@
 
 ## Giới thiệu dự án (Project Introduction):
 
-Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với mục tiêu tạo ra bộ dữ liệu Vietnamese instruction và  thực hiện Supervised instruction fine-tuning trên các Open-source mô hình ngôn ngữ  bloom, OpenLLaMA, GPT-J pythia và nhiều mô hình khác.
+Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với mục tiêu tạo ra bộ dữ liệu Vietnamese instruction và  thực hiện Supervised instruction fine-tuning trên các Open-source mô hình ngôn ngữ  Bloom, OpenLLaMA, GPT-J pythia và nhiều mô hình khác.
 
 
 ## Mục tiêu dự án (Project Goal):
@@ -34,9 +34,13 @@ Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với
 1. Xây dựng Bộ dữ liệu tiếng Việt Instructions Vietnamese (chất lượng, nhiều, và đa dạng):
    - Dịch các bộ dữ liệu tiếng Anh
    - Tổng hợp nguồn dữ liệu đa dạng
+   + Bộ dữ liệu về Báo Chí 
+   + 
    - Tạo dữ liệu tự học bổ sung
-   - 
+
    + Reference Consider Project Dataset and Design How to deploy this to this Project
+   
+   - Tạo Bộ dữ liệu dựa trên các mô hình ngôn ngữ lớn (GPT3, GPT-3.5, GPT-4, PALM2 etc)
 
 2. Huấn luyện và Đánh giá Mô hình Ngôn ngữ (Training, Finetuning, Evaluating, Testing LLM):
    - Finetuning (Tinh chỉnh) các Open-source LLMs mô hình ngôn ngữ : bloomz, OpenLLaMA, GPT-J pythia etc. trên Vietnamese Instruction Dataset
@@ -47,6 +51,7 @@ Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với
    - Tối ưu hiệu suất ứng dụng
 
 ## Tầm Nhìn (Project Vision)
+[Vision & Roadmap](https://docs.google.com/presentation/d/1qfIQoGMmarlZWzRa5lVQrMD67SmoVb7F6jr5NS0_Hx0/edit?usp=sharing)
 
 + Slide 
 + 
@@ -64,7 +69,8 @@ hardware.
 
 ## Kế Hoạch (Project plan)
 
-+ Slide Plan
+[Cấu trúc của dự án] (https://docs.google.com/presentation/d/1OdCTI1vMpftOMTOXXHEt2Ck5SBLSkPf_Zwedq7n3wec/edit?usp=sharing)
+
 
 1. Collect high-quality human generated Instruction-Fulfillment samples
    (prompt + response), goal >50k. We design a crowdsourced process to collect
