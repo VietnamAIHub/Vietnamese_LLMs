@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <span> 🇻🇳 Cộng đồng LLMs Việt Nam - Vietnamese Language Models Community</span>
-  <img width="auto" height="50px" src="https://github.com/LAION-AI/Open-Assistant/blob/main/assets/logo_crop.png"/>
+  <img width="auto" height="50px" src="./images/Vietnamese_LLMs_pipeline.png"/>
 </h1>
 
 <div align="center">
