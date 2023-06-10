@@ -7,7 +7,9 @@
      <img width="auto" height="400px" src="./images/Vietnamese_LLMs_pipeline.png"/>
 </div>
 
-# Table of Contents
+# 💡 Get help - [Q&A]() or [Discord 💬]()
+
+# Nội Dung (Table of Contents)
 
 - [Giới thiệu về Open Assistant](#giới-thiệu-về-open-assistant)
 - [Các Liên kết hữu ích](#các-liên-kết-hữu-ích)
