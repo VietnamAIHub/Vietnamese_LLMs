@@ -34,7 +34,7 @@ Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với
 1. Xây dựng Bộ dữ liệu Tiếng Việt cho Hướng dẫn (Instructions) (chất lượng, phong phú và đa dạng):
    - Chuyển đổi các bộ dữ liệu Hướng dẫn Tiếng Anh sang Tiếng Việt.
    - Tổng hợp các nguồn dữ liệu đa dạng có sẵn:
-     + Sử dụng bộ dữ liệu Hướng dẫn Tiếng Việt từ wikiHow, ví dụ: [human-instruction Vietnamese dataset] (https://www.kaggle.com/datasets/paolop/human-instructions-vietnamese-wikihow?resource=download).
+     + Sử dụng bộ dữ liệu Hướng dẫn Tiếng Việt từ wikiHow, ví dụ: [human-instruction Vietnamese dataset](https://www.kaggle.com/datasets/paolop/human-instructions-vietnamese-wikihow?resource=download).
      + Sử dụng các bộ dữ liệu từ lĩnh vực Báo chí, Y học, Giáo dục, v.v., ví dụ: bộ dữ liệu từ Báo Corpus ([news-corpus](https://github.com/binhvq/news-corpus)).
    - Tạo bổ sung bộ dữ liệu tự học (self-instruct):
      + Sử dụng bộ dữ liệu tự học như Stanford Alpaca.
