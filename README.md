@@ -34,7 +34,7 @@ Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với
 1. Xây dựng Bộ dữ liệu Tiếng Việt cho Hướng dẫn (Instructions) (chất lượng, phong phú và đa dạng):
    - Chuyển đổi các bộ dữ liệu Hướng dẫn Tiếng Anh sang Tiếng Việt.
    - Tổng hợp các nguồn dữ liệu đa dạng có sẵn:
-     + Sử dụng bộ dữ liệu Hướng dẫn Tiếng Việt từ wikiHow, ví dụ: [human-instruction Vietnamese dataset (https://www.kaggle.com/datasets/paolop/human-instructions-vietnamese-wikihow?resource=download).
+     + Sử dụng bộ dữ liệu Hướng dẫn Tiếng Việt từ wikiHow, ví dụ: [human-instruction Vietnamese dataset] (https://www.kaggle.com/datasets/paolop/human-instructions-vietnamese-wikihow?resource=download).
      + Sử dụng các bộ dữ liệu từ lĩnh vực Báo chí, Y học, Giáo dục, v.v., ví dụ: bộ dữ liệu từ Báo Corpus ([news-corpus](https://github.com/binhvq/news-corpus)).
    - Tạo bổ sung bộ dữ liệu tự học (self-instruct):
      + Sử dụng bộ dữ liệu tự học như Stanford Alpaca.
@@ -59,15 +59,15 @@ Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với
 
 Xây dựng trợ lý thông minh tiếng Việt của tương lai, vượt trội và linh hoạt hơn bao giờ hết!
 
-Chúng tôi muốn tạo ra một mô hình LLMs (Language Models) tiên tiến có khả năng xử lý tốt các tác vụ tiếng Việt. Mục tiêu của chúng tôi là cho phép trợ lý này không chỉ viết email và thư xin việc, mà còn thực hiện những công việc có ý nghĩa, sử dụng các API, nghiên cứu thông tin động và nhiều ứng dụng khác trong Giáo dục, Y tế, Tài chính và Công nghiệp.
++ Chúng ta sẽ tạo ra một mô hình LLMs (Language Models) tiên tiến có khả năng xử lý tốt các tác vụ tiếng Việt. Mục tiêu của phát triển mạnh các LLMs  ứng dụng khác trong Giáo dục, Y tế, Tài chính và Công nghiệp.
 
-Điều đặc biệt là chúng tôi muốn mô hình trợ lý có khả năng cá nhân hóa và mở rộng bởi bất kỳ ai trên tiếng Việt. Chúng tôi cũng đặt mục tiêu làm cho mô hình này nhỏ gọn và hiệu quả, để có thể chạy trên các máy tính với khả năng tính toán thấp.
++ Điều đặc biệt là chúng ta muốn tạo ra mô hình trợ lý có khả năng tương tác nâng cao trên tiếng Việt. Chúng tôi cũng đặt mục tiêu làm cho mô hình này nhỏ gọn và hiệu quả, để có thể chạy trên các máy tính với các GPUs thế hệ thấp với it memory.
 
-Dự án của chúng tôi có tầm nhìn rất lớn và chúng tôi mong muốn nhận được sự đóng góp và hỗ trợ của bạn. Hãy cùng nhau xây dựng một trợ lý thông minh tiếng Việt và góp phần tạo ra những đóng góp ý nghĩa cho cộng đồng và thế giới.
++ Dự án này chúng ta mong muốn nhận được sự đóng góp và hỗ trợ cộng đồng. Hãy cùng nhau xây dựng một trợ lý thông minh nói riêng và mô hình ngôn ngữa thuần tiếng Việt nói chung và góp phần tạo ra những đóng góp ý nghĩa cho cộng đồng Viet Nam 🇻🇳.
 
 ## Kế Hoạch (Project plan)
 
-[Cấu trúc của dự án](https://docs.google.com/presentation/d/1OdCTI1vMpftOMTOXXHEt2Ck5SBLSkPf_Zwedq7n3wec/edit?usp=sharing)
+<!--  [Cấu trúc của dự án](https://docs.google.com/presentation/d/1OdCTI1vMpftOMTOXXHEt2Ck5SBLSkPf_Zwedq7n3wec/edit?usp=sharing) -->
 
 ### Bước 1: Dịch tập dữ liệu hướng dẫn
 - Mục tiêu: Thu thập 500.000 đến 1 triệu mẫu hướng dẫn đầu vào + phản hồi (Instructions, outputs)
