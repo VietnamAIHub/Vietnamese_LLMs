@@ -42,9 +42,9 @@ Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với
 
 2. Huấn luyện và Đánh giá Mô hình Ngôn ngữ (Training, Finetuning, Evaluating, Testing LLM):
    - Tinh chỉnh (Finetuning) các mô hình ngôn ngữ mã nguồn mở như bloomz, OpenLLaMA, GPT-J pythia, v.v. trên Bộ dữ liệu Hướng dẫn Tiếng Việt.
-     + Áp dụng các kỹ thuật tối ưu hóa (Compression Machine learning) như Quantization, Sparsity.
-     + Sử dụng kỹ thuật tinh chỉnh hiệu quả như LoRA và QLoRA.
-     + Áp dụng các kỹ thuật tối ưu hóa Huấn luyện và Tinh chỉnh như Deepspeed, Crossal AI.
+     + Áp dụng các kỹ thuật tối ưu hóa (Compression Machine learning) như [Quantization](https://github.com/IST-DASLab/gptq), [Sparsity&Quantization](https://github.com/Vahe1994/SpQR).
+     + Sử dụng kỹ thuật tinh chỉnh hiệu quả như [LoRA]() và [QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes).
+     + Áp dụng các kỹ thuật tối ưu hóa Huấn luyện và Tinh chỉnh như [Deepspeed](https://www.microsoft.com/en-us/research/blog/zero-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/), [Colossal AI](https://colossalai.org/).
    - Đánh giá hiệu suất của mô hình trên các bài kiểm tra (Benchmark) và các tình huống thực tế.
    - Kiểm thử mô hình trên nhiều cách sử dụng khác nhau.
 
