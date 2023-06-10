@@ -5,23 +5,28 @@
 
 <div align="center">
      <img width="auto" height="400px" src="./images/Vietnamese_LLMs_pipeline.png"/>
-
 </div>
+
 ## 💡 Get help - [Q&A]() or [Discord 💬]()
 
 # Nội Dung (Table of Contents)
 
-- [Giới thiệu về Open Assistant](#giới-thiệu-về-open-assistant)
-- [Các Liên kết hữu ích](#các-liên-kết-hữu-ích)
-- [Cách Thử Nghiệm Open Assistant](#cách-thử-nghiệm-open-assistant)
+- [Giới thiệu về Vietnamese_LLMs](#Giới thiệu về Vietnamese_LLMs)
+- [Mục tiêu dự án](#các-liên-kết-hữu-ích)
+- [Cách tiến hành dự án](#cách-thử-nghiệm-open-assistant)
 - [Tầm nhìn](#tầm-nhìn)
 - [Kế Hoạch](#kế-hoạch)
 - [Làm thế nào bạn có thể giúp đỡ](#làm-thế-nào-bạn-có-thể-giúp-đỡ)
 
+## Giới thiệu dự án (Project Introduction):
+
+Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với mục tiêu tạo ra bộ dữ liệu Vietnamese instruction và  thực hiện Supervised instruction fine-tuning trên các Open-source mô hình ngôn ngữ  bloom, OpenLLaMA, GPT-J pythia và nhiều mô hình khác.
+
 
 ## Mục tiêu dự án (Project Goal):
+
 - Xây dựng Bộ dữ liệu Hướng dẫn tiếng Việt chất lượng cao
-- Huấn luyện, Tinh chỉnh và Đánh giá Mô hình Ngôn ngữ tiếng Việt
+- Huấn luyện, Tinh chỉnh và Đánh giá Mô hình Ngôn ngữ tiếng Việt (Training, Finetuning, Evaluation)
 - Thiết kế Ứng dụng với Giao diện Người dùng tối ưu hiệu suất
 
 ## Các nhiệm vụ (Tasks):
@@ -30,6 +35,8 @@
    - Dịch các bộ dữ liệu tiếng Anh
    - Tổng hợp nguồn dữ liệu đa dạng
    - Tạo dữ liệu tự học bổ sung
+   - 
+   + Reference Consider Project Dataset and Design How to deploy this to this Project
 
 2. Huấn luyện và Đánh giá Mô hình Ngôn ngữ (Training, Finetuning, Evaluating, Testing LLM):
    - Finetuning (Tinh chỉnh) các Open-source LLMs mô hình ngôn ngữ : bloomz, OpenLLaMA, GPT-J pythia etc. trên Vietnamese Instruction Dataset
@@ -39,4 +46,51 @@
    - Giao diện Người dùng (UI)
    - Tối ưu hiệu suất ứng dụng
 
+## Tầm Nhìn (Project Vision)
+
++ Slide 
++ 
+We are not going to stop at replicating ChatGPT. We want to build the assistant
+of the future, able to not only write email and cover letters, but do meaningful
+work, use APIs, dynamically research information, and much more, with the
+ability to be personalized and extended by anyone. And we want to do this in a
+way that is open and accessible, which means we must not only build a great
+assistant, but also make it small and efficient enough to run on consumer
+hardware.
+
++ RLHF
++ AgentLLM
++ Application LLMs on (Education, Medical, Finance, Industries)
+
+## Kế Hoạch (Project plan)
+
++ Slide Plan
+
+1. Collect high-quality human generated Instruction-Fulfillment samples
+   (prompt + response), goal >50k. We design a crowdsourced process to collect
+   and reviewed prompts. We do not want to train on
+   flooding/toxic/spam/junk/personal information data. We will have a
+   leaderboard to motivate the community that shows progress and the most active
+   users. Swag will be given to the top-contributors.
+2. For each of the collected prompts we will sample multiple completions.
+   Completions of one prompt will then be shown randomly to users to rank them
+   from best to worst. Again this should happen crowd-sourced, e.g. we need to
+   deal with unreliable potentially malicious users. At least multiple votes by
+   independent users have to be collected to measure the overall agreement. The
+   gathered ranking-data will be used to train a reward model.
+3. Now follows the RLHF training phase based on the prompts and the reward
+   model.
+
+We can then take the resulting model and continue with completion sampling step
+2 for a next iteration.
+
+## Làm Thế Nào Bạn Có Giúp Đở (How You can HELP)
+
+we collaborate we can together gift our knowledge and technology to the world for the benefit of humanity.
+1. how to Build Project Together
+Check out our  [contributing guide] (CONTRIBUTING.md) to get started. 
+
+2. We still Need more Computing Resources
+  + Please help us sponser Traning Compute 
+  + Please help us to connect private sectors in public to bring this project at scale.
 
