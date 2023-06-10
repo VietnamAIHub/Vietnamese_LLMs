@@ -31,72 +31,72 @@ Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với
 
 ## Các nhiệm vụ (Tasks):
 
-1. Xây dựng Bộ dữ liệu tiếng Việt Instructions Vietnamese (chất lượng, nhiều, và đa dạng):
-   - Dịch các bộ dữ liệu tiếng Anh
-   - Tổng hợp nguồn dữ liệu đa dạng
-   + Bộ dữ liệu về Báo Chí 
-   + 
-   - Tạo dữ liệu tự học bổ sung
-
-   + Reference Consider Project Dataset and Design How to deploy this to this Project
-   
-   - Tạo Bộ dữ liệu dựa trên các mô hình ngôn ngữ lớn (GPT3, GPT-3.5, GPT-4, PALM2 etc)
+1. Xây dựng Bộ dữ liệu Tiếng Việt cho Hướng dẫn (Instructions) (chất lượng, phong phú và đa dạng):
+   - Chuyển đổi các bộ dữ liệu Hướng dẫn Tiếng Anh sang Tiếng Việt.
+   - Tổng hợp các nguồn dữ liệu đa dạng có sẵn:
+     + Sử dụng bộ dữ liệu Hướng dẫn Tiếng Việt từ wikiHow, ví dụ: [human-instruction Vietnamese dataset (https://www.kaggle.com/datasets/paolop/human-instructions-vietnamese-wikihow?resource=download).
+     + Sử dụng các bộ dữ liệu từ lĩnh vực Báo chí, Y học, Giáo dục, v.v., ví dụ: bộ dữ liệu từ Báo Corpus ([news-corpus](https://github.com/binhvq/news-corpus)).
+   - Tạo bổ sung bộ dữ liệu tự học (self-instruct):
+     + Sử dụng bộ dữ liệu tự học như Stanford Alpaca.
+     + Tạo bộ dữ liệu dựa trên các mô hình ngôn ngữ lớn như GPT-3, GPT-3.5, GPT-4, PALM2, v.v.
 
 2. Huấn luyện và Đánh giá Mô hình Ngôn ngữ (Training, Finetuning, Evaluating, Testing LLM):
-   - Finetuning (Tinh chỉnh) các Open-source LLMs mô hình ngôn ngữ : bloomz, OpenLLaMA, GPT-J pythia etc. trên Vietnamese Instruction Dataset
-   - Đánh giá hiệu suất
+   - Tinh chỉnh (Finetuning) các mô hình ngôn ngữ mã nguồn mở như bloomz, OpenLLaMA, GPT-J pythia, v.v. trên Bộ dữ liệu Hướng dẫn Tiếng Việt.
+     + Áp dụng các kỹ thuật tối ưu hóa (Compression Machine learning) như Quantization, Sparsity.
+     + Sử dụng kỹ thuật tinh chỉnh hiệu quả như LoRA và QLoRA.
+     + Áp dụng các kỹ thuật tối ưu hóa Huấn luyện và Tinh chỉnh như Deepspeed, Crossal AI.
+   - Đánh giá hiệu suất của mô hình trên các bài kiểm tra (Benchmark) và các tình huống thực tế.
+   - Kiểm thử mô hình trên nhiều cách sử dụng khác nhau.
 
-3. Thiết kế Ứng dụng 
-   - Giao diện Người dùng (UI)
-   - Tối ưu hiệu suất ứng dụng
+3. Thiết kế Ứng dụng:
+   - Thiết kế Giao diện Người dùng (UI) thân thiện và dễ sử dụng.
+   - Tối ưu hiệu suất ứng dụng.
+
 
 ## Tầm Nhìn (Project Vision)
+
 [Vision & Roadmap](https://docs.google.com/presentation/d/1qfIQoGMmarlZWzRa5lVQrMD67SmoVb7F6jr5NS0_Hx0/edit?usp=sharing)
 
-+ Slide 
-+ 
-We are not going to stop at replicating ChatGPT. We want to build the assistant
-of the future, able to not only write email and cover letters, but do meaningful
-work, use APIs, dynamically research information, and much more, with the
-ability to be personalized and extended by anyone. And we want to do this in a
-way that is open and accessible, which means we must not only build a great
-assistant, but also make it small and efficient enough to run on consumer
-hardware.
+Xây dựng trợ lý thông minh tiếng Việt của tương lai, vượt trội và linh hoạt hơn bao giờ hết!
 
-+ RLHF
-+ AgentLLM
-+ Application LLMs on (Education, Medical, Finance, Industries)
+Chúng tôi muốn tạo ra một mô hình LLMs (Language Models) tiên tiến có khả năng xử lý tốt các tác vụ tiếng Việt. Mục tiêu của chúng tôi là cho phép trợ lý này không chỉ viết email và thư xin việc, mà còn thực hiện những công việc có ý nghĩa, sử dụng các API, nghiên cứu thông tin động và nhiều ứng dụng khác trong Giáo dục, Y tế, Tài chính và Công nghiệp.
+
+Điều đặc biệt là chúng tôi muốn mô hình trợ lý có khả năng cá nhân hóa và mở rộng bởi bất kỳ ai trên tiếng Việt. Chúng tôi cũng đặt mục tiêu làm cho mô hình này nhỏ gọn và hiệu quả, để có thể chạy trên các máy tính với khả năng tính toán thấp.
+
+Dự án của chúng tôi có tầm nhìn rất lớn và chúng tôi mong muốn nhận được sự đóng góp và hỗ trợ của bạn. Hãy cùng nhau xây dựng một trợ lý thông minh tiếng Việt và góp phần tạo ra những đóng góp ý nghĩa cho cộng đồng và thế giới.
 
 ## Kế Hoạch (Project plan)
 
-[Cấu trúc của dự án] (https://docs.google.com/presentation/d/1OdCTI1vMpftOMTOXXHEt2Ck5SBLSkPf_Zwedq7n3wec/edit?usp=sharing)
+[Cấu trúc của dự án](https://docs.google.com/presentation/d/1OdCTI1vMpftOMTOXXHEt2Ck5SBLSkPf_Zwedq7n3wec/edit?usp=sharing)
 
+### Bước 1: Dịch tập dữ liệu hướng dẫn
+- Mục tiêu: Thu thập 500.000 đến 1 triệu mẫu hướng dẫn đầu vào + phản hồi (Instructions, outputs)
+- Chúng ta sẽ xây dựng một sẽ và thống kê hiển thị các chủ đề khác nhau trong tập dữ liệu đã thu thập. Mục đích là không huấn luyện trên dữ liệu chứa thông tin gây lặn, độc hại, spam, rác rưởi hoặc thông tin cá nhân hoặc các dữ không đạt yêu cầu.
 
-1. Collect high-quality human generated Instruction-Fulfillment samples
-   (prompt + response), goal >50k. We design a crowdsourced process to collect
-   and reviewed prompts. We do not want to train on
-   flooding/toxic/spam/junk/personal information data. We will have a
-   leaderboard to motivate the community that shows progress and the most active
-   users. Swag will be given to the top-contributors.
-2. For each of the collected prompts we will sample multiple completions.
-   Completions of one prompt will then be shown randomly to users to rank them
-   from best to worst. Again this should happen crowd-sourced, e.g. we need to
-   deal with unreliable potentially malicious users. At least multiple votes by
-   independent users have to be collected to measure the overall agreement. The
-   gathered ranking-data will be used to train a reward model.
-3. Now follows the RLHF training phase based on the prompts and the reward
-   model.
+### Bước 2: Tạo tập dữ liệu hướng dẫn tự động
+- Sử dụng OpenAI GPT-35, GPT-4 để tạo tập dữ liệu hướng dẫn.
+- Đồng thời, chúng tôi thu thập các hướng dẫn được tạo bởi con người có sẵn bằng tiếng Việt.
 
-We can then take the resulting model and continue with completion sampling step
-2 for a next iteration.
+### Bước 3: Kiểm định và tiền xử lý tập dữ liệu
+- Kết hợp tập dữ liệu từ Bước 1 và Bước 2.
+- Tiền xử lý tập dữ liệu để chuẩn bị cho các bước tiếp theo.
 
-## Làm Thế Nào Bạn Có Giúp Đở (How You can HELP)
+### Bước 4: Tiến hành giai đoạn SFT (Supervised instruction Finetuning)
+- Dựa trên tập dữ liệu hướng dẫn tiếng Việt, tiến hành giai đoạn SFT để tinh chỉnh mô hình.
 
-we collaborate we can together gift our knowledge and technology to the world for the benefit of humanity.
-1. how to Build Project Together
-Check out our  [contributing guide](contribute.md) to get started. 
+### Bước 5: Tiếp tục huấn luyện mô hình với giai đoạn RLHF (Reinforcement Learning from Human Feedback)
+- Sau khi hoàn thành Bước 4, chúng ta có thể tiếp tục huấn luyện mô hình với giai đoạn RLHF dựa trên tập dữ liệu hướng dẫn từ con người thuộc dự án OpenAssistant công khai.
 
-2. We still Need more Computing Resources
-  + Please help us sponser Traning Compute 
-  + Please help us to connect private sectors in public to bring this project at scale.
+Hãy nhớ rằng các bước này đại diện cho quy trình chung và có thể được điều chỉnh và bổ sung theo yêu cầu cụ thể của dự án.
+
+## Làm Thế Nào Bạn Có Giúp Đỡ (How You can HELP)
+
+Chúng ta có thể cùng nhau đóng góp tri thức và công nghệ của mình để mang lại lợi ích cho cộng đồng Việt Nam.
+
+1. bạn có thể cùng xây dựng dự án: 
+Hãy xem hướng dẫn [đóng góp](contribute.md) để bắt đầu chung tay xây dựng dự án này.
+
+2. Bạn có thể hổ trợ về tài nguyên như máy chủ server hoặc các tài nguyên khác.
+  - Dự án rất tài trợ tài nguyên GPUs để có thể tiến hành quá trình huấn luyện (Pretraining) và quá trình tinh chỉnh (Finetuning).
+  - Có thể giúp dự án kết nối với các công ty tư nhân để mang dự án này áp dụng rộng rãi.
 
