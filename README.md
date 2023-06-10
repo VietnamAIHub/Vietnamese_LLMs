@@ -6,7 +6,7 @@
 <div align="center">
      <img width="auto" height="400px" src="./images/Vietnamese_LLMs_pipeline.png"/>
 
-    ## 💡 Get help - [Q&A]() or [Discord 💬]()
+    + 💡 Get help - [Q&A]() or [Discord 💬]()
 
 </div>
 
