@@ -5,9 +5,11 @@
 
 <div align="center">
      <img width="auto" height="400px" src="./images/Vietnamese_LLMs_pipeline.png"/>
+
+    ## 💡 Get help - [Q&A]() or [Discord 💬]()
+
 </div>
 
-# 💡 Get help - [Q&A]() or [Discord 💬]()
 
 # Nội Dung (Table of Contents)
 
