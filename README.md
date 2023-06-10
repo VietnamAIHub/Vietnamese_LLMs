@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-     <img width="auto" height="50px" src="./images/Vietnamese_LLMs_pipeline.png"/>
+     <img width="auto" height="500px" src="./images/Vietnamese_LLMs_pipeline.png"/>
 </div>
 
 # Table of Contents
