@@ -11,7 +11,7 @@
 
 # Nội Dung (Table of Contents)
 
-- [Giới thiệu về Vietnamese_LLMs](#Giới-thiệu-dự-án-(Project Introduction))
+- [Giới thiệu về Vietnamese_LLMs](#Giới-thiệu-dự-án)
 - [Mục tiêu dự án](#các-liên-kết-hữu-ích)
 - [Cách tiến hành dự án](#cách-thử-nghiệm-open-assistant)
 - [Tầm nhìn](#tầm-nhìn)
