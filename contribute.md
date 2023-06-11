@@ -46,4 +46,3 @@ Một quá trình xem xét được coi là hoàn thành khi tất cả các ý 
 
 Nếu bạn muốn làm việc trên một nhiệm vụ, hãy gán cho mình hoặc viết một bình luận cho biết bạn muốn làm việc trên nó và bạn định làm gì.
 
-- Có một [giới thiệu cho các nhà phát triển]()
