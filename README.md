@@ -101,7 +101,7 @@ Xây dựng trợ lý thông minh tiếng Việt của tương lai, vượt tr�
 
 + Chúng ta sẽ tạo ra một mô hình LLMs (Language Models) tiên tiến có khả năng xử lý tốt các tác vụ tiếng Việt. Mục tiêu của phát triển mạnh các LLMs  ứng dụng khác trong Giáo dục, Y tế, Tài chính và Công nghiệp.
 
-+ Điều đặc biệt là chúng ta muốn tạo ra mô hình trợ lý có khả năng tương tác nâng cao trên tiếng Việt. Chúng tôi cũng đặt mục tiêu làm cho mô hình này nhỏ gọn và hiệu quả, để có thể chạy trên các máy tính với các GPUs thế hệ thấp với it memory.
++ Điều đặc biệt là chúng ta muốn tạo ra mô hình trợ lý có khả năng tương tác nâng cao trên tiếng Việt. Hơn thế nữa chúng ta cũng đặt mục tiêu làm cho mô hình này nhỏ gọn và hiệu quả, để có thể chạy trên các người dùng cá nhân máy tính với các GPUs thế hệ thấp với ít memory.
 
 + Dự án này chúng ta mong muốn nhận được sự đóng góp và hỗ trợ cộng đồng. Hãy cùng nhau xây dựng một trợ lý thông minh nói riêng và mô hình ngôn ngữa thuần tiếng Việt nói chung và góp phần tạo ra những đóng góp ý nghĩa cho cộng đồng Việt Nam 🇻🇳.
 
