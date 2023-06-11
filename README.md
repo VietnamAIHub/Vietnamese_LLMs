@@ -95,7 +95,7 @@ Hy vọng Với cấu trúc này, dự án có thể được quản lý một c
 
 ## Tầm Nhìn (Project Vision)
 
-[Vision & Roadmap](https://docs.google.com/presentation/d/1qfIQoGMmarlZWzRa5lVQrMD67SmoVb7F6jr5NS0_Hx0/edit?usp=sharing)
+[Chiết Tiết về Vision & Roadmap](https://docs.google.com/presentation/d/1qfIQoGMmarlZWzRa5lVQrMD67SmoVb7F6jr5NS0_Hx0/edit?usp=sharing)
 
 Xây dựng trợ lý thông minh tiếng Việt của tương lai, vượt trội và linh hoạt hơn bao giờ hết!
 
@@ -103,7 +103,7 @@ Xây dựng trợ lý thông minh tiếng Việt của tương lai, vượt tr�
 
 + Điều đặc biệt là chúng ta muốn tạo ra mô hình trợ lý có khả năng tương tác nâng cao trên tiếng Việt. Chúng tôi cũng đặt mục tiêu làm cho mô hình này nhỏ gọn và hiệu quả, để có thể chạy trên các máy tính với các GPUs thế hệ thấp với it memory.
 
-+ Dự án này chúng ta mong muốn nhận được sự đóng góp và hỗ trợ cộng đồng. Hãy cùng nhau xây dựng một trợ lý thông minh nói riêng và mô hình ngôn ngữa thuần tiếng Việt nói chung và góp phần tạo ra những đóng góp ý nghĩa cho cộng đồng Viet Nam 🇻🇳.
++ Dự án này chúng ta mong muốn nhận được sự đóng góp và hỗ trợ cộng đồng. Hãy cùng nhau xây dựng một trợ lý thông minh nói riêng và mô hình ngôn ngữa thuần tiếng Việt nói chung và góp phần tạo ra những đóng góp ý nghĩa cho cộng đồng Việt Nam 🇻🇳.
 
 ## Kế Hoạch (Project plan)
 

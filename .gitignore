@@ -21,3 +21,14 @@ rad.json
 #Test results file
 TestResults.xml
 
+# Data files
+*.csv
+*.json
+*.pkl
+*.xlsx
+*.html
+*.Python
+*.pth 
+*.pt 
+
+wandb/

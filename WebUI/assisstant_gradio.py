@@ -3,10 +3,8 @@
 
 This design including 2 Sections:
 
-1. Using The Pay API LLM Model 
+1. Using The Open API LLM Model 
     + OpenAI API (gpt-3.5-turbo) & GPT-3 API (text-davinci-003)
-
-4 Pipeline Development 
 
 1.. FineTune Instruction LLM  --> 2.. Langain Memory System  --> Specific Design Application Domain 
 
@@ -21,8 +19,6 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.docstore import InMemoryDocstore
 from langchain.vectorstores import FAISS
 import os
-
-
 from langchain.llms import HuggingFacePipeline
 from langchain import LLMChain
 from langchain.chains.conversation.memory import ConversationSummaryBufferMemory
@@ -30,9 +26,8 @@ from langchain.chains import ConversationChain
 from langchain import OpenAI
 from langchain.prompts.prompt import PromptTemplate
 
-# os.environ['OPENAI_API_KEY'] = "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"
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 from langchain.docstore import InMemoryDocstore
 
