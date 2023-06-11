@@ -55,7 +55,43 @@ Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với
 
 ## Cấu Trúc Của Dự Án (Project Structure)
 
+Dưới đây là cấu trúc của dự án, mô tả các phần quan trọng và chức năng chính của chúng:
 
+### 1. Tạo và Dịch Các Bộ Dữ liệu (Generate and Translate Dataset)
+
+Thư mục `/Generate_and_Translate_Dataset` chứa các bộ dữ liệu và công cụ liên quan đến việc tạo và dịch các instruction dataset.
+
+- Phần Dịch (Translation Dataset)
+
+  - `Using_OpenAI_Translate_API.py`: Sử dụng OpenAI GPT-3.5 và GPT-4 để dịch các bộ dữ liệu. Đây là một phương pháp cho kết quả tốt.
+
+  - `Using_NLLB_MetaAI_Translate.py`: Sử dụng NLLB làm mô hình cho việc dịch. Bạn có thể sử dụng 54B model để đạt được kết quả tương đối.
+
+- Phần Tạo Instruction Dataset
+
+  - `Generation_instruction_OpenAI_api.py`: Sử dụng Stanford Alpaca template để tạo các instruction dataset. Gồm hơn 175 instruction được tạo bởi con người.
+
+  - Cập Nhập Sớm trong Tương Lai: Phần này dự kiến sẽ được cập nhật với thông tin về cách tạo thêm Instruction dataset từ các nguồn khác.
+
+### 2. Training & Fine-tune LLM Model
+
+Thư mục `/LLMs` chứa các tệp tin và công cụ để training và fine-tune các mô hình ngôn ngữ (Language Models).
+
+- Phần Fine-tuning dựa trên các Open-Source Based LLMs (BLOOMZ, Open-LLaMA, v.v.)
+
+  - `Finetune_llm_LoRA.py`: Cung cấp công cụ để fine-tune các mô hình LLMs dựa trên các mã nguồn mở như BLOOMZ, Open-LLaMA, v.v.
+
+  - `Finetune_llm_QLoRA.py`: Đây là một công cụ khác để fine-tune các mô hình LLMs dựa trên các mã nguồn mở.
+
+### 3. Giao Diện Web (Web UI Interface)
+
+Thư mục `/WebUI` chứa các tệp tin và công cụ liên quan đến giao diện người dùng qua Web.
+
+- Hiện tại, để nhanh chóng và thuận tiện cho việc demo và kiểm thử, chúng tôi sử dụng Gradio để phát triển giao diện.
+
+  - `assistant_gradio.py`: Đây là ứng dụng đã được phát triển dựa trên Gradio, cho phép trải nghiệm trực quan và trò chuyện với trợ lý thông qua giao diện Web.
+
+Hy vọng Với cấu trúc này, dự án có thể được quản lý một cách cụ thể và dễ đàng để cập nhập [mọi người có thể góp ý để có một cấu trúc tốt hơn] ()
 
 ## Tầm Nhìn (Project Vision)
 
