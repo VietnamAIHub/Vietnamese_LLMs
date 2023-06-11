@@ -14,6 +14,7 @@
 - [Giới thiệu về Vietnamese_LLMs](#Giới-thiệu-dự-án)
 - [Mục tiêu dự án](#các-liên-kết-hữu-ích)
 - [Cách tiến hành dự án](#cách-thử-nghiệm-open-assistant)
+- [Cấu trúc của dự á](#Cấu-trúc-của-dự-án)
 - [Tầm nhìn](#tầm-nhìn)
 - [Kế Hoạch](#kế-hoạch)
 - [Làm thế nào bạn có thể giúp đỡ](#làm-thế-nào-bạn-có-thể-giúp-đỡ)
@@ -51,6 +52,9 @@ Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với
 3. Thiết kế Ứng dụng:
    - Thiết kế Giao diện Người dùng (UI) thân thiện và dễ sử dụng.
    - Tối ưu hiệu suất ứng dụng.
+
+## Cấu Trúc Của Dự Án (Project Structure)
+
 
 
 ## Tầm Nhìn (Project Vision)
