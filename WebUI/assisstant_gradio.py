@@ -1,12 +1,19 @@
 '''
-@TranNhiem 2023/05
+@TranNhiem 2023/06/06
 
-This design including 2 Sections:
+This code is the first version of the LLM (Language Model) Assistant using the LangChain Tool. 
 
-1. Using The Open API LLM Model 
-    + OpenAI API (gpt-3.5-turbo) & GPT-3 API (text-davinci-003)
+1. Loading The Finetuned Instruction LLM Model
+    + Using Checkpoint 
+    + Using HuggingFace Model Hub
 
-1.. FineTune Instruction LLM  --> 2.. Langain Memory System  --> Specific Design Application Domain 
+2. Using The LangChain Tool 
+    + LangChain Memory System 
+    + LangChain VectorStore System
+
+3. Connect to Vector Database (FAISS) for Indexing and Searching
+
+4. Further Design LLMs for Auto Agent (AI Agent) LLM using Langchain Tool 
 
     4.1 Indexing LLM (Augmented Retrieved Documents )
     4.2 Agent LLM (Design & Invent New thing for Human)
@@ -25,11 +32,14 @@ from langchain.chains.conversation.memory import ConversationSummaryBufferMemory
 from langchain.chains import ConversationChain 
 from langchain import OpenAI
 from langchain.prompts.prompt import PromptTemplate
-
-
 os.environ["OPENAI_API_KEY"] = ""
 
 from langchain.docstore import InMemoryDocstore
+
+
+## -----------------------------------------------------------------
+## Loading LLM Models 
+## -----------------------------------------------------------------
 
 
 
