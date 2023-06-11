@@ -1,3 +1,16 @@
+'''
+@TranNhiem 2023/05
+
+This design including 2 Sections:
+
+1. Using The Pay API to Translate Dataset
+    + OpenAI API (gpt-3.5-turbo) & GPT-3 API (text-davinci-003)
+    + Azure Translate Optional 
+ 
+'''
+
+
+
 
 import math 
 import os
