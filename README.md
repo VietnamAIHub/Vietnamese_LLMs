@@ -99,4 +99,4 @@ Hãy xem hướng dẫn [Đóng Góp Cho Dự ](contribute.md) để bắt đầ
 2. Bạn có thể hổ trợ về tài nguyên như máy chủ server hoặc các tài nguyên khác.
   - Dự án rất tài trợ tài nguyên GPUs để có thể tiến hành quá trình huấn luyện (Pretraining) và quá trình tinh chỉnh (Finetuning).
   - Có thể giúp dự án kết nối với các công ty tư nhân để mang dự án này áp dụng rộng rãi.
-  - Bạn có thể kết nối trực tiếp với Trần Nhiệm [LinkedIn](https://www.linkedin.com/in/tran-nhiem-ab1851125/) (Lập kế hoạch và Lên lịch, Tài liệu và Báo cáo)
+  - Bạn có thể kết nối trực tiếp với Trần Nhiệm [LinkedIn](https://www.linkedin.com/in/tran-nhiem-ab1851125/) nhiệm vụ cho Lập kế hoạch và Lên lịch, Tài liệu và Báo cáo.
