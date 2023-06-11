@@ -94,9 +94,9 @@ Hãy nhớ rằng các bước này đại diện cho quy trình chung và có t
 Chúng ta có thể cùng nhau đóng góp tri thức và công nghệ của mình để mang lại lợi ích cho cộng đồng Việt Nam.
 
 1. bạn có thể cùng xây dựng dự án: 
-Hãy xem hướng dẫn [đóng góp](contribute.md) để bắt đầu chung tay xây dựng dự án này.
+Hãy xem hướng dẫn [Đóng Góp Cho Dự ](contribute.md) để bắt đầu chung tay xây dựng dự án này.
 
 2. Bạn có thể hổ trợ về tài nguyên như máy chủ server hoặc các tài nguyên khác.
   - Dự án rất tài trợ tài nguyên GPUs để có thể tiến hành quá trình huấn luyện (Pretraining) và quá trình tinh chỉnh (Finetuning).
   - Có thể giúp dự án kết nối với các công ty tư nhân để mang dự án này áp dụng rộng rãi.
-  - Bạn có thể kết nói trực tiếp với Trần Nhiệm [LinkedIn](https://www.linkedin.com/in/tran-nhiem-ab1851125/) (Lập kế hoạch và Lên lịch, Tài liệu và Báo cáo)
+  - Bạn có thể kết nối trực tiếp với Trần Nhiệm [LinkedIn](https://www.linkedin.com/in/tran-nhiem-ab1851125/) (Lập kế hoạch và Lên lịch, Tài liệu và Báo cáo)
