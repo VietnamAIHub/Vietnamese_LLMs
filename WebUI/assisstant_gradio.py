@@ -18,6 +18,8 @@ This code is the first version of the LLM (Language Model) Assistant using the L
     4.1 Indexing LLM (Augmented Retrieved Documents )
     4.2 Agent LLM (Design & Invent New thing for Human)
 
+5. Future work: Integrate Huggingface Text-generation-inference 
+    + https://github.com/huggingface/text-generation-inference 
 '''
 
 import os

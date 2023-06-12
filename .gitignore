@@ -23,7 +23,7 @@ TestResults.xml
 
 # Data files
 *.csv
-*.json
+# *.json
 *.pkl
 *.xlsx
 *.html
