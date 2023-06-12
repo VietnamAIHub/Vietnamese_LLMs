@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-     <img width="auto" height="400px" src="./images/Vietnamese_LLMs_pipeline.png"/>
+     <img width="auto" height="400px" src="./images/Vietnamese_LLMs.png"/>
 </div>
 
 ## 💡 Get help - [Q&A](https://github.com/TranNhiem/Vietnamese_LLMs/discussions) or [Discord 💬](https://discord.gg/eH7eg4fT)
@@ -101,7 +101,7 @@ Xây dựng trợ lý thông minh tiếng Việt của tương lai, vượt tr�
 
 + Chúng ta sẽ tạo ra một mô hình LLMs (Language Models) tiên tiến có khả năng xử lý tốt các tác vụ tiếng Việt. Mục tiêu của phát triển mạnh các LLMs  ứng dụng khác trong Giáo dục, Y tế, Tài chính và Công nghiệp.
 
-+ Điều đặc biệt là chúng ta muốn tạo ra mô hình trợ lý có khả năng tương tác nâng cao trên tiếng Việt. Chúng tôi cũng đặt mục tiêu làm cho mô hình này nhỏ gọn và hiệu quả, để có thể chạy trên các máy tính với các GPUs thế hệ thấp với it memory.
++ Điều đặc biệt là chúng ta muốn tạo ra mô hình trợ lý có khả năng tương tác nâng cao trên tiếng Việt. Hơn thế nữa chúng ta cũng đặt mục tiêu làm cho mô hình này nhỏ gọn và hiệu quả, để có thể chạy trên các người dùng cá nhân máy tính với các GPUs thế hệ thấp với ít memory.
 
 + Dự án này chúng ta mong muốn nhận được sự đóng góp và hỗ trợ cộng đồng. Hãy cùng nhau xây dựng một trợ lý thông minh nói riêng và mô hình ngôn ngữa thuần tiếng Việt nói chung và góp phần tạo ra những đóng góp ý nghĩa cho cộng đồng Việt Nam 🇻🇳.
 
@@ -137,6 +137,6 @@ Chúng ta có thể cùng nhau đóng góp tri thức và công nghệ của mì
 Hãy xem hướng dẫn [Đóng Góp Cho Dự Án](contribute.md) để bắt đầu chung tay xây dựng dự án này.
 
 2. Bạn có thể hổ trợ về tài nguyên như máy chủ server hoặc các tài nguyên khác.
-  - Dự án rất tài trợ tài nguyên GPUs để có thể tiến hành quá trình huấn luyện (Pretraining) và quá trình tinh chỉnh (Finetuning).
-  - Có thể giúp dự án kết nối với các công ty tư nhân để mang dự án này áp dụng rộng rãi.
+  - Dự án hiện rất cần các nguồn tài trợ tài nguyên GPUs để có thể tiến hành quá trình huấn luyện (Pretraining) và quá trình tinh chỉnh (Finetuning).
+  - Nếu bạn Có thể giúp dự án kết nối với các công ty tư nhân để mang dự án này áp dụng rộng rãi.
   - Bạn có thể kết nối trực tiếp với Trần Nhiệm [LinkedIn](https://www.linkedin.com/in/tran-nhiem-ab1851125/) [Facebook](https://www.facebook.com/jean.tran.336). Nhiệm với  vụ cho Lập kế hoạch và Lên lịch, Tài liệu và Báo cáo.
