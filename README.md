@@ -69,7 +69,7 @@ Thư mục `/Generate_and_Translate_Dataset` chứa các bộ dữ liệu và c�
 
 - Phần Tạo Instruction Dataset
 
-  - `Generation_instruction_OpenAI_api.py`: Sử dụng Stanford Alpaca template để tạo các instruction dataset. Gồm hơn 175 instruction được tạo bởi con người.
+  - `Generation_instruction_OpenAI_api.py`: Sử dụng Stanford Alpaca template để tạo các instruction dataset. Gồm hơn 175 instruction tasks được tạo bởi con người.
 
   - Cập Nhập Sớm trong Tương Lai: Phần này dự kiến sẽ được cập nhật với thông tin về cách tạo thêm Instruction dataset từ các nguồn khác.
 
@@ -91,7 +91,7 @@ Thư mục `/WebUI` chứa các tệp tin và công cụ liên quan đến giao 
 
   - `assistant_gradio.py`: Đây là ứng dụng đã được phát triển dựa trên Gradio, cho phép trải nghiệm trực quan và trò chuyện với trợ lý thông qua giao diện Web.
 
-Hy vọng Với cấu trúc này, dự án có thể được quản lý một cách cụ thể và dễ đàng để cập nhập [mọi người có thể góp ý để có một cấu trúc tốt hơn] ()
+Hy vọng Với cấu trúc này, dự án có thể được quản lý một cách cụ thể và dễ đàng để cập nhập [mọi người có thể góp ý để có một cấu trúc tốt hơn]()
 
 ## Tầm Nhìn (Project Vision)
 
