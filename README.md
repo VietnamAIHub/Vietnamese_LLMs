@@ -110,7 +110,7 @@ Xây dựng trợ lý thông minh tiếng Việt của tương lai, vượt tr�
 <!--  [Cấu trúc của dự án](https://docs.google.com/presentation/d/1OdCTI1vMpftOMTOXXHEt2Ck5SBLSkPf_Zwedq7n3wec/edit?usp=sharing) -->
 
 ### Bước 1: Dịch tập dữ liệu hướng dẫn
-- Mục tiêu: Dịch các bộ dữ liệu chuẩn và chất Lượng English based instructions dataset : Alpaca, Dolly, OpenAssistant, Filtered_ShareGPT others dataset.
+- Mục tiêu: Dịch các bộ dữ liệu chuẩn và chất Lượng English based instructions dataset : [Alpaca](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json), [Dolly 15k] (https://huggingface.co/datasets/databricks/databricks-dolly-15k), [OpenAssistant](https://huggingface.co/datasets/OpenAssistant/oasst1), [Filtered_ShareGPT] (https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) others dataset.
 - Xây dựng hệ thống, thống kê hiển thị các chủ đề khác nhau trong tập dữ liệu đã thu thập. Mục đích là loại bỏ dữ liệu chứa thông tin gây lặn, độc hại, spam, rác rưởi hoặc thông tin cá nhân hoặc các dữ không đạt yêu cầu.
 
 ### Bước 2: Tạo tập dữ liệu hướng dẫn tự động
