@@ -110,11 +110,12 @@ Xây dựng trợ lý thông minh tiếng Việt của tương lai, vượt tr�
 <!--  [Cấu trúc của dự án](https://docs.google.com/presentation/d/1OdCTI1vMpftOMTOXXHEt2Ck5SBLSkPf_Zwedq7n3wec/edit?usp=sharing) -->
 
 ### Bước 1: Dịch tập dữ liệu hướng dẫn
-- Mục tiêu: Thu thập 500.000 đến 1 triệu mẫu hướng dẫn đầu vào + phản hồi (Instructions, outputs)
-- Chúng ta sẽ xây dựng một sẽ và thống kê hiển thị các chủ đề khác nhau trong tập dữ liệu đã thu thập. Mục đích là không huấn luyện trên dữ liệu chứa thông tin gây lặn, độc hại, spam, rác rưởi hoặc thông tin cá nhân hoặc các dữ không đạt yêu cầu.
+- Mục tiêu: Dịch các bộ dữ liệu chuẩn và chất Lượng English based instructions dataset : Alpaca, Dolly, OpenAssistant, Filtered_ShareGPT others dataset.
+- Xây dựng hệ thống, thống kê hiển thị các chủ đề khác nhau trong tập dữ liệu đã thu thập. Mục đích là loại bỏ dữ liệu chứa thông tin gây lặn, độc hại, spam, rác rưởi hoặc thông tin cá nhân hoặc các dữ không đạt yêu cầu.
 
 ### Bước 2: Tạo tập dữ liệu hướng dẫn tự động
 - Sử dụng OpenAI GPT-3.5, GPT-4 để tạo tập dữ liệu hướng dẫn.
+- Mục tiêu: Thu thập 500.000 đến 1 triệu mẫu hướng dẫn đầu vào + phản hồi (Instructions, outputs)
 - Đồng thời, chúng tôi thu thập các hướng dẫn được tạo bởi con người có sẵn bằng tiếng Việt.
 
 ### Bước 3: Kiểm định và tiền xử lý tập dữ liệu
