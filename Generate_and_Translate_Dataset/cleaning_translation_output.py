@@ -19,7 +19,7 @@ import re
 def merge_json_files():
     """
     Merge multiple JSON files into a single JSON file.
-    Only rows with 'instruction' and 'output' keys are merged.
+    Checking rows with 'instruction' and 'output' keys are exist in the JSON file.
     """
     merged_data = []
 
