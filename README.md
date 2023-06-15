@@ -96,7 +96,7 @@ Hy vọng Với cấu trúc này, dự án có thể được quản lý một c
 
 ## Tầm Nhìn (Project Vision)
 
-[Chiết Tiết về Vision & Roadmap](https://docs.google.com/presentation/d/1qfIQoGMmarlZWzRa5lVQrMD67SmoVb7F6jr5NS0_Hx0/edit?usp=sharing)
+[Chi Tiết về Vision & Roadmap](https://docs.google.com/presentation/d/1qfIQoGMmarlZWzRa5lVQrMD67SmoVb7F6jr5NS0_Hx0/edit?usp=sharing)
 
 Xây dựng trợ lý thông minh tiếng Việt của tương lai, vượt trội và linh hoạt hơn bao giờ hết!
 
