@@ -64,7 +64,7 @@ def merge_json_files():
                 print(f"Error parsing file: {file_path}. Error message: {str(e)}")
 
     # Write merged data to a new file
-    output_file_path = "/home/rick/Integrated_APP/Multimodal_Integrated_App/Language/Translate_modules/alpaca_translate_GPT_35_1_10k.json"
+    output_file_path = "/home/rick/Integrated_APP/Multimodal_Integrated_App/Language/Translate_modules/alpaca_translate_GPT_35_10_20k.json"
     with open(output_file_path, 'w') as file:
         json.dump(merged_data, file)
 
@@ -114,8 +114,8 @@ def remove_failed_rows(json_file_path, output_file_path):
     print(f"Modified JSON file has been written to {output_file_path}")
 
 # Specify the input JSON file path and the output file path for the modified JSON
-input_file_path = "/home/rick/Integrated_APP/Multimodal_Integrated_App/Language/Translate_modules/alpaca_translate_GPT_35_1_10k.json"
-output_file_path = "/home/rick/Integrated_APP/Multimodal_Integrated_App/Language/Translate_modules/alpaca_translate_GPT_35_1_10k.json"
+input_file_path = "/home/rick/Integrated_APP/Multimodal_Integrated_App/Language/Translate_modules/alpaca_translate_GPT_35_10_20k.json"
+output_file_path = "/home/rick/Integrated_APP/Multimodal_Integrated_App/Language/Translate_modules/alpaca_translate_GPT_35_10_20k.json"
 
 # Call the function to remove failed rows
 remove_failed_rows(input_file_path, output_file_path)
@@ -140,8 +140,8 @@ def remove_note_from_values(json_file_path, output_file_path):
     print(f"Modified JSON file has been written to {output_file_path}")
 
 # Specify the input JSON file path and the output file path for the modified JSON
-input_file_path = "/home/rick/Integrated_APP/Multimodal_Integrated_App/Language/Translate_modules/alpaca_translate_GPT_35_1_10k.json"
-output_file_path = "/home/rick/Integrated_APP/Multimodal_Integrated_App/Language/Translate_modules/alpaca_translate_GPT_35_1_10k.json"
+input_file_path = "/home/rick/Integrated_APP/Multimodal_Integrated_App/Language/Translate_modules/alpaca_translate_GPT_35_10_20k.json"
+output_file_path = "/home/rick/Integrated_APP/Multimodal_Integrated_App/Language/Translate_modules/alpaca_translate_GPT_35_10_20k.json"
 
 # Call the function to remove the specified pattern from the values
 remove_note_from_values(input_file_path, output_file_path)
@@ -162,7 +162,7 @@ def print_examples(json_file_path, num_examples):
         print()
 
 # Specify the path to the modified JSON file
-json_file_path = "/home/rick/Integrated_APP/Multimodal_Integrated_App/Language/Translate_modules/alpaca_translate_GPT_35_1_10k.json"
+json_file_path = "/home/rick/Integrated_APP/Multimodal_Integrated_App/Language/Translate_modules/alpaca_translate_GPT_35_10_20k.json"
 
 # Specify the number of examples to print
 num_examples = 2
