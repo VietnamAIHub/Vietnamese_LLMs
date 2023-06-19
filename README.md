@@ -69,7 +69,9 @@ Thư mục `/Generate_and_Translate_Dataset` chứa các bộ dữ liệu và c�
 
   - `Using_NLLB_MetaAI_Translate.py`: Sử dụng NLLB làm mô hình cho việc dịch. Bạn có thể sử dụng 54B model để đạt được kết quả tương đối.
 
-- Phần Tạo Instruction Dataset
+- Phần Tạo Instruction Dataset 
+
+  - Chi tiết kỹ thuật dùng [tạo Instruction dataset](https://docs.google.com/presentation/d/1qfIQoGMmarlZWzRa5lVQrMD67SmoVb7F6jr5NS0_Hx0/edit#slide=id.g22944aa9b74_2_399) từ Slide 8 tới slide 14
 
   - `Generation_instruction_OpenAI_api.py`: Sử dụng Stanford Alpaca template để tạo các instruction dataset. Gồm hơn 175 instruction tasks được tạo bởi con người.
 
