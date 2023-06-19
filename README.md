@@ -21,8 +21,9 @@
 
 ## Giới thiệu dự án (Project Introduction):
 
-Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với mục tiêu tạo ra bộ dữ liệu Vietnamese instruction và  thực hiện Supervised instruction fine-tuning trên các Open-source mô hình ngôn ngữ  Bloom, OpenLLaMA, GPT-J pythia và nhiều mô hình khác.
+Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với mục tiêu tạo ra bộ dữ liệu Vietnamese instruction và  thực hiện Supervised instruction fine-tuning trên các Open-source mô hình ngôn ngữ  Bloom, OpenLLaMA, GPT-J, MPT, Pythia và nhiều mô hình khác.
 
++ [Dự án Tổng Quan] ()
 
 ## Mục tiêu dự án (Project Goal):
 
