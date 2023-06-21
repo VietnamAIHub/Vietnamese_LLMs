@@ -7,7 +7,7 @@
      <img width="auto" height="400px" src="./images/Vietnamese_LLMs.png"/>
 </div>
 
-## 💡 Get help - [Q&A](https://github.com/TranNhiem/Vietnamese_LLMs/discussions) or [Discord 💬](https://discord.gg/eH7eg4fT)
+## 💡 Get help - [Q&A](https://github.com/TranNhiem/Vietnamese_LLMs/discussions) or [Discord 💬](https://discord.gg/BC8Mqq8qYn)
 
 # Nội Dung (Table of Contents)
 
