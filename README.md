@@ -10,11 +10,43 @@
 
 ## 💡 Get help - [Q&A](https://github.com/TranNhiem/Vietnamese_LLMs/discussions) or [Discord 💬](https://discord.gg/BC8Mqq8qYn)
 
+# News: 
++ [2023.09.02] We release LLaMA2 7B, 13B (8k Context Length 200k)fine-tuning on 200k Vietnamese Mix Instruction 🔥
++ [2023.07.28] We release LLaMA 13B, 30B (2k Context Length) on 52k Vietnamese alpaca and 200k Mix Instruction Dataset 🔥
++ [2023.08.27] We release BLOOMZ 1.7B, 7B instruction fine-tuning on 52k Vietnamese alpaca🔥🔥
+
+
+We provide a number of model checkpoints that we trained. Please find them on Hugging Face [here](https://huggingface.co/models?search=taiwan-llama). Here are some quick links to the checkpoints that are finetuned from LLaMa 2:
+
+| **Model**         |                   **Link**                                                            | 
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Vietnamese-LLaMa2 v1.0 13B 8K Context Length**  | 🤗 <a href="https://huggingface.co/VietnamAIHub/Vietnamese_LLama2_13B_8K_SFT_General_Domain_Knowledge" target="_blank">Vietnamese_LLama2_13B_8K_SFT_General_Domain_Knowledge</a>  | 
+| **Vietnamese-LLaMa2 v1.0 7B 8K Context Length**  | 🤗 <a href="https://huggingface.co/VietnamAIHub/Vietnamese_llama2_7B_8K_SFT_General_domain" target="_blank">Vietnamese_llama2_7B_8K_SFT_General_domain</a>  | 
+| **Vietnamese-LLaMa v1.0 30B 2K Context Length** | 🤗 <a href="https://huggingface.co/VietnamAIHub/Vietnamese_llama_30B_SFT" target="_blank">Vietnamese_llama_30B_SFT </a>  | 
+| **Vietnamese-BLOOMZ v1.0 7B 2K Context Length**|🤗 <a href="https://huggingface.co/VietnamAIHub/Vietnamese_bloomz_7b" target="_blank">
+Vietnamese_bloomz_7b </a>  | 
+
+## Data
+
+Here are some quick links to the datasets that we used to train the models:
+
+| **Dataset**                     | **Link**                                              | 
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **200K Mix Instruction-tuning**      | 🤗 <a href="" target="_blank">Vienamese200k Mix Instructions<a>                                           | 
+| **Vietnamese 52K Alpaca** | 🤗 <a href="" target="_blank">VienameseAplaca</a>  
+| **Vietnamese Lima 1K** | 🤗 <a href="" target="_blank">VienameseLima</a>  
+
+# Demo: 
++ [Vietnamese llama2 7B Model Demo] ()
++ [Vietnamese llama2 13B Model Demo] ()
+
+
+
 # Nội Dung (Table of Contents)
 
 - [Giới thiệu về Vietnamese_LLMs](#Giới-thiệu-dự-án)
 - [Mục tiêu dự án](#các-liên-kết-hữu-ích)
-- [Cách tiến hành dự án](#cách-thử-nghiệm-open-assistant)
+<!-- - [Cách tiến hành dự án](#cách-thử-nghiệm-open-assistant) -->
 - [Cấu trúc của dự án](#Cấu-trúc-của-dự-án)
 - [Tầm nhìn](#tầm-nhìn)
 - [Kế Hoạch](#kế-hoạch)
@@ -32,6 +64,7 @@ Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với
 - Huấn luyện, Tinh chỉnh và Đánh giá Mô hình Ngôn ngữ tiếng Việt (Training, Finetuning, Evaluation)
 - Thiết kế Ứng dụng với Giao diện Người dùng tối ưu hiệu suất
 
+<!-- 
 ## Các nhiệm vụ (Tasks):
 
 1. Xây dựng Bộ dữ liệu Tiếng Việt cho Hướng dẫn (Instructions) (chất lượng, phong phú và đa dạng):
@@ -54,7 +87,7 @@ Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với
 
 3. Thiết kế Ứng dụng:
    - Thiết kế Giao diện Người dùng (UI) thân thiện và dễ sử dụng.
-   - Tối ưu hiệu suất ứng dụng.
+   - Tối ưu hiệu suất ứng dụng. -->
 
 ## Cấu Trúc Của Dự Án (Project Structure)
 
@@ -146,3 +179,11 @@ Hãy xem hướng dẫn [Đóng Góp Cho Dự Án](contribute.md) để bắt đ
   - Dự án hiện rất cần các nguồn tài trợ tài nguyên GPUs để có thể tiến hành quá trình huấn luyện (Pretraining) và quá trình tinh chỉnh (Finetuning).
   - Nếu bạn Có thể giúp dự án kết nối với các công ty tư nhân để mang dự án này áp dụng rộng rãi.
   - Bạn có thể kết nối trực tiếp với Trần Nhiệm [Facebook](https://www.facebook.com/jean.tran.336). Nhiệm với  vụ cho Lập kế hoạch và Lên lịch, Tài liệu và Báo cáo.
+
+
+@misc{vietnameseLLM,
+    author={Tran Nhiem},
+    title={Vietnamese Instruction Data Corpus for Large-Scale Finetuning of Language Models},
+    year={2023},
+    url={https://github.com/VietnamAIHub/Vietnamese_LLMs},
+}
