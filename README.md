@@ -42,7 +42,7 @@ Here are some quick links to the datasets that we used to train the models:
 
 
 <div align="center">
-     <img width="auto" height="400px" src="./images/Vietassistant_GPT.gif"/>
+     <img width="auto" height="500px" src="./images/Vietassistant_GPT.gif"/>
 </div>
 
 
