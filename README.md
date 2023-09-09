@@ -2,10 +2,11 @@
 <h1 align="center">
   <span> 🇻🇳 Cộng đồng LLMs Việt Nam - Vietnamese Language Models Community</span>
 </h1>
-
+<!--
 <div align="center">
      <img width="auto" height="400px" src="./images/Vietnamese_LLMs.png"/>
 </div>
+-->
 
 ## 💡 Get help - [Q&A](https://github.com/TranNhiem/Vietnamese_LLMs/discussions) or [Discord 💬](https://discord.gg/BC8Mqq8qYn)
 
@@ -47,7 +48,7 @@ Chào bạn đến với dự án Cộng đồng LLMs Việt Nam! Dự án với
      + Áp dụng các kỹ thuật tối ưu hóa (Compression Machine learning) như [Quantization](https://github.com/IST-DASLab/gptq), [Sparsity & Quantization](https://github.com/Vahe1994/SpQR).
      + Sử dụng kỹ thuật tinh chỉnh hiệu quả như [LoRA]() và [QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes).
      + Áp dụng các kỹ thuật tối ưu hóa Huấn luyện và Tinh chỉnh như [Deepspeed](https://www.microsoft.com/en-us/research/blog/zero-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/), [Colossal AI](https://colossalai.org/).
-  - Bạn có thể theo dõi chi tiết model Finetuning [kết quả](https://wandb.ai/tranrick/Vietnamese_LLMs/reports/Vietnamese_LLMs---Vmlldzo0NjM4Nzg3)
+  - Bạn có thể theo dõi chi tiết model Finetuning 
   - Đánh giá hiệu suất của mô hình trên các bài kiểm tra (Benchmark) và các tình huống thực tế.
    - Kiểm thử mô hình trên nhiều cách sử dụng khác nhau.
 
@@ -144,4 +145,4 @@ Hãy xem hướng dẫn [Đóng Góp Cho Dự Án](contribute.md) để bắt đ
 2. Bạn có thể hổ trợ về tài nguyên như máy chủ server hoặc các tài nguyên khác.
   - Dự án hiện rất cần các nguồn tài trợ tài nguyên GPUs để có thể tiến hành quá trình huấn luyện (Pretraining) và quá trình tinh chỉnh (Finetuning).
   - Nếu bạn Có thể giúp dự án kết nối với các công ty tư nhân để mang dự án này áp dụng rộng rãi.
-  - Bạn có thể kết nối trực tiếp với Trần Nhiệm [LinkedIn](https://www.linkedin.com/in/tran-nhiem-ab1851125/) [Facebook](https://www.facebook.com/jean.tran.336). Nhiệm với  vụ cho Lập kế hoạch và Lên lịch, Tài liệu và Báo cáo.
+  - Bạn có thể kết nối trực tiếp với Trần Nhiệm [Facebook](https://www.facebook.com/jean.tran.336). Nhiệm với  vụ cho Lập kế hoạch và Lên lịch, Tài liệu và Báo cáo.
