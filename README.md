@@ -36,8 +36,8 @@ Here are some quick links to the datasets that we used to train the models:
 | **Vietnamese Lima 1K** | 🤗 <a href="" target="_blank">VienameseLima</a>  
 
 # Demo: 
-+ [Vietnamese llama2 7B Model Demo] (http://127.0.0.1:12345/)
-+ [Vietnamese llama2 13B Model Demo] (http://127.0.0.1:12345/)
++ [Vietnamese llama2 7B Model Demo](http://127.0.0.1:12345/)
++ [Vietnamese llama2 13B Model Demo](http://127.0.0.1:12345/)
 
 
 
