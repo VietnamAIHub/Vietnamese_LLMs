@@ -184,10 +184,11 @@ Hãy xem hướng dẫn [Đóng Góp Cho Dự Án](contribute.md) để bắt đ
   - Nếu bạn Có thể giúp dự án kết nối với các công ty tư nhân để mang dự án này áp dụng rộng rãi.
   - Bạn có thể kết nối trực tiếp với Trần Nhiệm [Facebook](https://www.facebook.com/jean.tran.336). Nhiệm với  vụ cho Lập kế hoạch và Lên lịch, Tài liệu và Báo cáo.
 
-
+`
 @misc{vietnameseLLM,
     author={Tran Nhiem},
     title={Vietnamese Instruction Data Corpus for Large-Scale Finetuning of Language Models},
     year={2023},
     url={https://github.com/VietnamAIHub/Vietnamese_LLMs},
 }
+`
