@@ -23,8 +23,7 @@ We provide a number of model checkpoints that we trained. Please find them on Hu
 | **Vietnamese-LLaMa2 v1.0 13B 8K Context Length**  | 🤗 <a href="https://huggingface.co/VietnamAIHub/Vietnamese_LLama2_13B_8K_SFT_General_Domain_Knowledge" target="_blank">Vietnamese_LLama2_13B_8K_SFT_General_Domain_Knowledge</a>  | 
 | **Vietnamese-LLaMa2 v1.0 7B 8K Context Length**  | 🤗 <a href="https://huggingface.co/VietnamAIHub/Vietnamese_llama2_7B_8K_SFT_General_domain" target="_blank">Vietnamese_llama2_7B_8K_SFT_General_domain</a>  | 
 | **Vietnamese-LLaMa v1.0 30B 2K Context Length** | 🤗 <a href="https://huggingface.co/VietnamAIHub/Vietnamese_llama_30B_SFT" target="_blank">Vietnamese_llama_30B_SFT </a>  | 
-| **Vietnamese-BLOOMZ v1.0 7B 2K Context Length**|🤗 <a href="https://huggingface.co/VietnamAIHub/Vietnamese_bloomz_7b" target="_blank">
-Vietnamese_bloomz_7b </a>  | 
+| **Vietnamese-BLOOMZ v1.0 7B 2K Context Length**|🤗 <a href="https://huggingface.co/VietnamAIHub/Vietnamese_bloomz_7b" target="_blank">Vietnamese_bloomz_7b </a>  | 
 
 ## Data
 
