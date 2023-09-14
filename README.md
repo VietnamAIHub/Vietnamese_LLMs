@@ -36,9 +36,9 @@ Here are some quick links to the datasets that we used to train the models:
 | **Vietnamese Lima 1K** | <a href="https://github.com/VietnamAIHub/Vietnamese_LLMs/tree/main/Generate_and_Translate_Dataset/Vietnamese_Instructions_datasets/Translation/Lima/GPT_4_results" target="_blank">VienameseLima</a>  
 
 # Demo: 
++ [**Vietnamese llama2 13B Model Demo**](https://bf930a52b9d6266882.gradio.live/)
++ [**Vietnamese llama2 7B Model Demo**](https://31fee86ed135939f28.gradio.live/)
 
-+ [**Vietnamese llama2 7B Model Demo**](https://bf930a52b9d6266882.gradio.live/)
-+ [**Vietnamese llama2 13B Model Demo**](https://f9e7442aa6d057f919.gradio.live)
 
 
 <div align="center">
