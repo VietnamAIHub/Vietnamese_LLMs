@@ -37,7 +37,7 @@ Here are some quick links to the datasets that we used to train the models:
 
 # Demo: 
 
-+ [**Vietnamese llama2 7B Model Demo**](https://31fee86ed135939f28.gradio.live)
++ [**Vietnamese llama2 7B Model Demo**](https://bf930a52b9d6266882.gradio.live/)
 + [**Vietnamese llama2 13B Model Demo**](https://f9e7442aa6d057f919.gradio.live)
 
 
