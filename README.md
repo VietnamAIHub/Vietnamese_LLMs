@@ -33,7 +33,7 @@ Here are some quick links to the datasets that we used to train the models:
 | **200K Mix Instruction-tuning**  |  [Vietnamese200k Mix Instructions](link_to_your_dataset)                                                                         |                              |
 | **Vietnamese 52K Alpaca**        | [Vietnamese Alpaca 52k](https://github.com/VietnamAIHub/Vietnamese_LLMs/tree/main/Generate_and_Translate_Dataset/Vietnamese_Instructions_datasets/Translation/Alpaca_52k) | Translated using GPT-3.5    |
 | **Vietnamese Lima 1K**           | [Vietnamese Lima 1K](https://github.com/VietnamAIHub/Vietnamese_LLMs/tree/main/Generate_and_Translate_Dataset/Vietnamese_Instructions_datasets/Translation/Lima/GPT_4_results)  | Translated by GPT-4         |
-| **Vietnamese Dolly**             | [Vietnamese Dolly](link_to_your_dolly_dataset)                                                                                  | Translated by GPT-4         |
+| **Vietnamese Dolly**             | [Vietnamese Dolly](https://huggingface.co/datasets/VietnamAIHub/Vietnamese_Dolly_15k)                                                                                  | Translated by GPT-4         |
 | **Vietnamese Instruction of How**             | [Vietnamese Instruction How Step by Step](https://huggingface.co/datasets/VietnamAIHub/Vietnamese_Instruction_How_Step_by_Step)                                                                                  | Extracted from Vietnamese WikiHow       |
 
 
