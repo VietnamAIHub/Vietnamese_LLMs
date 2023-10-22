@@ -30,7 +30,7 @@ We provide a number of model checkpoints that we trained. Please find them on Hu
 Here are some quick links to the datasets that we used to train the models:
 | **Dataset**                      | **Link**                                                                                                                        | **Note**                    |
 |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------|
-| **200K Mix Instruction-tuning**  |  [Vietnamese200k Mix Instructions](link_to_your_dataset)                                                                         |                              |
+| **200K Mix Instruction-tuning**  |  [Vietnamese200k Mix Instructions](https://huggingface.co/datasets/VietnamAIHub/General_Domain_Vietnamese_Instructions_V1)                                                                         |                              |
 | **Vietnamese 52K Alpaca**        | [Vietnamese Alpaca 52k](https://github.com/VietnamAIHub/Vietnamese_LLMs/tree/main/Generate_and_Translate_Dataset/Vietnamese_Instructions_datasets/Translation/Alpaca_52k) | Translated using GPT-3.5    |
 | **Vietnamese Lima 1K**           | [Vietnamese Lima 1K](https://github.com/VietnamAIHub/Vietnamese_LLMs/tree/main/Generate_and_Translate_Dataset/Vietnamese_Instructions_datasets/Translation/Lima/GPT_4_results)  | Translated by GPT-4         |
 | **Vietnamese Dolly**             | [Vietnamese Dolly](https://huggingface.co/datasets/VietnamAIHub/Vietnamese_Dolly_15k)                                                                                  | Translated by GPT-4         |
