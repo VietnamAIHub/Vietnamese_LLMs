@@ -29,9 +29,10 @@ We provide a number of model checkpoints that we trained. Please find them on Hu
 
 Here are some quick links to the datasets that we used to train the models:
 
-| **Dataset**                     | **Link**                                              | 
+| **Dataset**                     | **Link**                                              | Note
 |---------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | **200K Mix Instruction-tuning**      |  <a href="" target="_blank">Vienamese200k Mix Instructions<a>                                           | 
+
 | **Vietnamese 52K Alpaca** | <a href="https://github.com/VietnamAIHub/Vietnamese_LLMs/tree/main/Generate_and_Translate_Dataset/Vietnamese_Instructions_datasets/Translation/Alpaca_52k" target="_blank">VienameseAplaca</a>  
 | **Vietnamese Lima 1K** | <a href="https://github.com/VietnamAIHub/Vietnamese_LLMs/tree/main/Generate_and_Translate_Dataset/Vietnamese_Instructions_datasets/Translation/Lima/GPT_4_results" target="_blank">VienameseLima</a>  
 
