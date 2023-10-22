@@ -28,15 +28,12 @@ We provide a number of model checkpoints that we trained. Please find them on Hu
 ## Data
 
 Here are some quick links to the datasets that we used to train the models:
-
-| **Dataset**                     | **Link**                                              | Note       |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| **200K Mix Instruction-tuning**      |  <a href="" target="_blank">Vienamese200k Mix Instructions<a>                                           |   | 
-
-| **Vietnamese 52K Alpaca** | <a href="https://github.com/VietnamAIHub/Vietnamese_LLMs/tree/main/Generate_and_Translate_Dataset/Vietnamese_Instructions_datasets/Translation/Alpaca_52k" target="_blank">VienameseAplaca</a>    |  Translated using GPT-3.5  | 
-| **Vietnamese Lima 1K** | <a href="https://github.com/VietnamAIHub/Vietnamese_LLMs/tree/main/Generate_and_Translate_Dataset/Vietnamese_Instructions_datasets/Translation/Lima/GPT_4_results" target="_blank">VienameseLima</a>   |  Translated by GPT-4  | 
-| **Vietnamese Dolly** | <a href="" target="_blank">VienameseDolly</a>   |  Translated by GPT-4  | 
-
+| **Dataset**                      | **Link**                                                                                                                        | **Note**                    |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| **200K Mix Instruction-tuning**  |  [Vietnamese200k Mix Instructions](link_to_your_dataset)                                                                         |                              |
+| **Vietnamese 52K Alpaca**        | [Vietnamese Alpaca 52k](https://github.com/VietnamAIHub/Vietnamese_LLMs/tree/main/Generate_and_Translate_Dataset/Vietnamese_Instructions_datasets/Translation/Alpaca_52k) | Translated using GPT-3.5    |
+| **Vietnamese Lima 1K**           | [Vietnamese Lima 1K](https://github.com/VietnamAIHub/Vietnamese_LLMs/tree/main/Generate_and_Translate_Dataset/Vietnamese_Instructions_datasets/Translation/Lima/GPT_4_results)  | Translated by GPT-4         |
+| **Vietnamese Dolly**             | [Vietnamese Dolly](link_to_your_dolly_dataset)                                                                                  | Translated by GPT-4         |
 
 # Demo: 
 + [**Vietnamese llama2 13B Model Demo**](https://bf930a52b9d6266882.gradio.live/)
