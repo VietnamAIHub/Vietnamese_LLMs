@@ -34,8 +34,10 @@ Here are some quick links to the datasets that we used to train the models:
 | **200K Mix Instruction-tuning**      |  <a href="" target="_blank">Vienamese200k Mix Instructions<a>                                           |   | 
 
 | **Vietnamese 52K Alpaca** | <a href="https://github.com/VietnamAIHub/Vietnamese_LLMs/tree/main/Generate_and_Translate_Dataset/Vietnamese_Instructions_datasets/Translation/Alpaca_52k" target="_blank">VienameseAplaca</a>    |  Translated using GPT-3.5  | 
-| **Vietnamese Lima 1K** | <a href="https://github.com/VietnamAIHub/Vietnamese_LLMs/tree/main/Generate_and_Translate_Dataset/Vietnamese_Instructions_datasets/Translation/Lima/GPT_4_results" target="_blank">VienameseLima</a>   |  Translated using GPT-4  | 
-| **Vietnamese Dolly** | <a href="" target="_blank">VienameseDolly</a>   |  Translated using GPT-4  | 
+| **Vietnamese Lima 1K** | <a href="https://github.com/VietnamAIHub/Vietnamese_LLMs/tree/main/Generate_and_Translate_Dataset/Vietnamese_Instructions_datasets/Translation/Lima/GPT_4_results" target="_blank">VienameseLima</a>   |  Translated by GPT-4  | 
+| **Vietnamese Dolly** | <a href="" target="_blank">VienameseDolly</a>   |  Translated by GPT-4  | 
+
+
 # Demo: 
 + [**Vietnamese llama2 13B Model Demo**](https://bf930a52b9d6266882.gradio.live/)
 + [**Vietnamese llama2 7B Model Demo**](https://31fee86ed135939f28.gradio.live/)
