@@ -8,7 +8,7 @@
 </div>
 -->
 
-## 💡 Get help - [Q&A](https://github.com/TranNhiem/Vietnamese_LLMs/discussions) or [Discord 💬](https://discord.gg/BC8Mqq8qYn)
+## 💡 Get help - [Q&A](https://github.com/TranNhiem/Vietnamese_LLMs/discussions) or [Discord 💬](https://discord.gg/WrtNZbmw)
 
 # News: 
 + [2023.09.02] We release LLaMA2 7B, 13B (8k Context Length 200k)fine-tuning on 200k Vietnamese Mix Instruction 🔥
